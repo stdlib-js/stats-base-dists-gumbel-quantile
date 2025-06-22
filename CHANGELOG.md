@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-06-22)
+
+<section class="features">
+
+### Features
+
+-   [`dd4ec1f`](https://github.com/stdlib-js/stdlib/commit/dd4ec1f43658127b038dde75c6f378d30f87114f) - add C implementation for `stats/base/dists/gumbel/quantile` [(#4558)](https://github.com/stdlib-js/stdlib/pull/4558)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3653](https://github.com/stdlib-js/stdlib/issues/3653)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`dd4ec1f`](https://github.com/stdlib-js/stdlib/commit/dd4ec1f43658127b038dde75c6f378d30f87114f) - **feat:** add C implementation for `stats/base/dists/gumbel/quantile` [(#4558)](https://github.com/stdlib-js/stdlib/pull/4558) _(by Nishchay Rajput, Philipp Burckhardt, stdlib-bot)_
 -   [`105b812`](https://github.com/stdlib-js/stdlib/commit/105b8121cd65f5bb520351b48c945996e1dfb6aa) - **bench:** refactor random number generation in `stats/base/dists/gumbel` [(#4933)](https://github.com/stdlib-js/stdlib/pull/4933) _(by Karan Anand, stdlib-bot)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
@@ -25,9 +48,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Nishchay Rajput
 -   Philipp Burckhardt
 
 </section>
