@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-23)
+## Unreleased (2025-06-30)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`0a23889`](https://github.com/stdlib-js/stdlib/commit/0a23889dd55afcd8f1a85cd208a2397c931637bd) - **test:** increase tolerances for passing tests _(by Philipp Burckhardt)_
 -   [`efc52c9`](https://github.com/stdlib-js/stdlib/commit/efc52c9c2a9ff6c72b33efc3e000cb554badc171) - **chore:** clean-up _(by Athan Reines)_
 -   [`ee919b6`](https://github.com/stdlib-js/stdlib/commit/ee919b670b693b8c8881161d955229d21408924a) - **docs:** update `stats/base/dists/gumbel` examples to use Greek symbols _(by Philipp Burckhardt)_
 -   [`dd4ec1f`](https://github.com/stdlib-js/stdlib/commit/dd4ec1f43658127b038dde75c6f378d30f87114f) - **feat:** add C implementation for `stats/base/dists/gumbel/quantile` [(#4558)](https://github.com/stdlib-js/stdlib/pull/4558) _(by Nishchay Rajput, Philipp Burckhardt, stdlib-bot)_
