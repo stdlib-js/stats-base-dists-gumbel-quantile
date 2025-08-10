@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-14)
+## Unreleased (2025-08-10)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3653](https://github.com/stdlib-js/stdlib/issues/3653)
+[#3653](https://github.com/stdlib-js/stdlib/issues/3653), [#7454](https://github.com/stdlib-js/stdlib/issues/7454)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a2fa5eb`](https://github.com/stdlib-js/stdlib/commit/a2fa5eb53203cfd1df88056fb5b4ebf9894c3e87) - **chore:** address commit comments [(#7845)](https://github.com/stdlib-js/stdlib/pull/7845) _(by Nakul Krishnakumar)_
 -   [`708320e`](https://github.com/stdlib-js/stdlib/commit/708320e43d505cd6f390bf6014d58cb5e092cbaf) - **docs:** update related packages sections [(#7647)](https://github.com/stdlib-js/stdlib/pull/7647) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`0a23889`](https://github.com/stdlib-js/stdlib/commit/0a23889dd55afcd8f1a85cd208a2397c931637bd) - **test:** increase tolerances for passing tests _(by Philipp Burckhardt)_
 -   [`efc52c9`](https://github.com/stdlib-js/stdlib/commit/efc52c9c2a9ff6c72b33efc3e000cb554badc171) - **chore:** clean-up _(by Athan Reines)_
@@ -52,10 +53,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
+-   Nakul Krishnakumar
 -   Nishchay Rajput
 -   Philipp Burckhardt
 
