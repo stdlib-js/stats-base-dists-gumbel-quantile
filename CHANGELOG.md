@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-09-14)
+## 0.3.0 (2026-01-30)
 
 <section class="features">
 
@@ -34,7 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
--   [`49f2313`](https://github.com/stdlib-js/stdlib/commit/49f23133cefb121f626a918838ef4bed4cc81da6) - **docs:** replace manual `for` loop in examples [(#8077)](https://github.com/stdlib-js/stdlib/pull/8077) _(by Harsh)_
+-   [`49f2313`](https://github.com/stdlib-js/stdlib/commit/49f23133cefb121f626a918838ef4bed4cc81da6) - **docs:** replace manual `for` loop in examples [(#8077)](https://github.com/stdlib-js/stdlib/pull/8077) _(by Harsh Yadav)_
 -   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
@@ -61,7 +61,7 @@ A total of 2 issues were closed in this release:
 A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Nakul Krishnakumar
 -   Nishchay Rajput
