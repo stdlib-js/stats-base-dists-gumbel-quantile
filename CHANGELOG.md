@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-14)
+## Unreleased (2026-10-02)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`25751e9`](https://github.com/stdlib-js/stdlib/commit/25751e90d2d5afacd8bf75dbcbfac85da5d7b166) - **test:** migrate `stats/base/dists/gumbel/quantile` to ULP-based assertions [(#15761)](https://github.com/stdlib-js/stdlib/pull/15761) _(by Athan Reines)_
 -   [`caa6641`](https://github.com/stdlib-js/stdlib/commit/caa664132db8e198b76a35c688d6c326b6614673) - **docs:** update descriptions [(#13604)](https://github.com/stdlib-js/stdlib/pull/13604) _(by Philipp Burckhardt, Athan Reines)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
